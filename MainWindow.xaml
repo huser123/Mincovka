@@ -1,0 +1,19 @@
+﻿<Window x:Class="MoneyCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pénz Számoló" Height="600" Width="330">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="top">
+            <Label Content="Add meg az összeget:" Margin="0,10,0,0"/>
+            <TextBox x:Name="AmountTextBox" Width="200" Margin="10" KeyDown="AmountTextBox_KeyDown"/>
+            <Button Content="Számol" Width="100" Click="CalculateButton_Click"/>
+            <TextBlock x:Name="TotalAmountTextBlock" FontWeight="Bold" Margin="10" FontSize="18"/>
+            <DataGrid x:Name="ResultDataGrid" AutoGenerateColumns="False" Width="300" Margin="10" FontSize="18">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Címlet" Binding="{Binding Denomination}" Width="*"/>
+                    <DataGridTextColumn Header="Darabszám" Binding="{Binding Count}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

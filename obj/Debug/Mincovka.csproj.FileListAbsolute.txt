@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\ide\Mincovka\bin\Debug\Mincovka.exe.config
+C:\Users\User\Downloads\ide\Mincovka\bin\Debug\Mincovka.exe
+C:\Users\User\Downloads\ide\Mincovka\bin\Debug\Mincovka.pdb
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\App.g.cs
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka_MarkupCompile.cache
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka.g.resources
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka.Properties.Resources.resources
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka.exe
+C:\Users\User\Downloads\ide\Mincovka\obj\Debug\Mincovka.pdb
